@@ -9,9 +9,9 @@ Below is the demonstration of the gameplay.
 
 - [Player movement](#player-movement)
 - [Raycasting Algorithm](#raycasting-algorithm)
-- [Static and Animated Sprites (decorations)](#static-and-animated-sprites-(decorations))
+- [Static and Animated Sprites (decorations)](#static-and-animated-sprites-decorations)
 - [Weapon and shooting animation](#weapon-and-shooting-animation)
-- [Player Enemy interaction (Pathfinding)](#player-enemy-interaction-(pathfinding))
+- [Player Enemy interaction (Pathfinding)](#player-enemy-interaction-pathfinding)
 - [Enemies](#enemies)
 - [Final Gameplay](#final-gameplay)
 
@@ -25,7 +25,7 @@ Below is the implementation of the same (viewed in 2D perspective to confirm mov
 
 ### Raycasting algorithm
 
-In raycasting algorithm we cast a fixed number of rays in the field of view of the player, if field of view (FOV) angle is **X**, then the area visible to the player at a particular time would be equal to ***player's current angle (line of sight) - half of FOV angle (x/2)*** to ***player's current angle (line of sight) + half of FOV angle (x/2)***. The rays will be cast in this particular region till they meet an obstacle (wall) which will give the depth perspective of that particular point wrt the player. 
+In raycasting algorithm we cast a fixed number of rays in the field of view of the player, if field of view (FOV) angle is **X**, then the area visible to the player at a particular time would be equal to ***player's current angle (line of sight) - half of FOV angle (X/2)*** to ***player's current angle (line of sight) + half of FOV angle (X/2)***. The rays will be cast in this particular region till they meet an obstacle (wall) which will give the depth perspective of that particular point wrt the player. 
 
 Raycasting algorithm visual representation in 2D perspective is shown below (rays cannot pass the walls as they are obstacles).
 
@@ -49,9 +49,9 @@ In order to make the game more beautiful we add static and animated sprites to m
 
 Static and animated sprites added into the game environment.
 
-![Game assets](/photos/assets_1.png)
-![Game assets](/photos/assets_2.gif)
-![Game assets](/photos/assets_3.gif)
+<img src="/photos/assets_1.png" width=20% height=20% align="left">
+<img src="/photos/assets_2.gif" width=40% height=40% align="center">
+<img src="/photos/assets_3.gif" width=40% height=40% align="right">
 
 Game environment along with the static and animated sprite decorations.
 
