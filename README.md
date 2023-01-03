@@ -49,9 +49,13 @@ In order to make the game more beautiful we add static and animated sprites to m
 
 Static and animated sprites added into the game environment.
 
-<img src="/photos/assets_1.png" width=20% height=20% align="left">
-<img src="/photos/assets_2.gif">
-<img src="/photos/assets_3.gif">
+<table height="320" width="650">
+<tr>
+<td width="200" style="padding-top:90px"><img src="/photos/assets_1.png" width=60% height=60%></td>
+<td><img src="/photos/assets_2.gif" width=50% height=50%></td>
+<td style="padding-bottom:20px"><img src="/photos/assets_3.gif" width=50% height=50%></td>
+</tr>
+</table>
 
 Game environment along with the static and animated sprite decorations.
 
