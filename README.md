@@ -49,6 +49,9 @@ In order to make the game more beautiful we add static and animated sprites to m
 
 Static and animated sprites added into the game environment.
 
+<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_1.png?raw=true" width=20%>
+<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_2.gif?raw=true" width=15%>
+<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_3.gif?raw=true" width=15%>
 ![Assets](/photos/assets_1.png)
 ![Assets](/photos/assets_2.gif)
 ![Assets](/photos/assets_3.gif)
@@ -87,7 +90,7 @@ Now lets add different enemy characters to make the gameplay more fun and intere
 
 #### Soldier
 
-![Soldier](/photos/soldier_1.gif width="20%")
+![Soldier](/photos/soldier_1.gif)
 ![Soldier](/photos/soldier_2.gif)
 ![Soldier](/photos/soldier_3.gif)
 
