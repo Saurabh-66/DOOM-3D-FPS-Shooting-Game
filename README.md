@@ -49,12 +49,9 @@ In order to make the game more beautiful we add static and animated sprites to m
 
 Static and animated sprites added into the game environment.
 
-<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_1.png?raw=true" width=20%>
-<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_2.gif?raw=true" width=15%>
-<img src="https://github.com/Saurabh-66/DOOM-3D-FPS-Shooting-Game/blob/main/photos/assets_3.gif?raw=true" width=15%>
-![Assets](/photos/assets_1.png)
-![Assets](/photos/assets_2.gif)
-![Assets](/photos/assets_3.gif)
+<img src="/photos/assets_1.png" width=5%>
+<img src=/photos/assets_2.gif" width=2%>
+<img src="/photos/assets_3.gif" width=2%>
 
 Game environment along with the static and animated sprite decorations.
 
