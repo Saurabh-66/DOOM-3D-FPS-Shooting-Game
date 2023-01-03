@@ -50,8 +50,8 @@ In order to make the game more beautiful we add static and animated sprites to m
 Static and animated sprites added into the game environment.
 
 <img src="/photos/assets_1.png" width=20% height=20% align="left">
-<img src="/photos/assets_2.gif" width=40% height=40% align="center">
-<img src="/photos/assets_3.gif" width=40% height=40% align="right">
+<img src="/photos/assets_2.gif">
+<img src="/photos/assets_3.gif">
 
 Game environment along with the static and animated sprite decorations.
 
