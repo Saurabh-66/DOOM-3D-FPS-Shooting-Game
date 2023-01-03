@@ -49,13 +49,9 @@ In order to make the game more beautiful we add static and animated sprites to m
 
 Static and animated sprites added into the game environment.
 
-<table height="320" width="650">
-<tr>
-<td width="200" style="padding-top:90px"><img src="/photos/assets_1.png" width=60% height=60%></td>
-<td><img src="/photos/assets_2.gif" width=50% height=50%></td>
-<td style="padding-bottom:20px"><img src="/photos/assets_3.gif" width=50% height=50%></td>
-</tr>
-</table>
+<img src="/photos/assets_1.png" width=20%>
+<img src="/photos/assets_2.gif" width=15%>
+<img src="/photos/assets_3.gif" width=15%>
 
 Game environment along with the static and animated sprite decorations.
 
@@ -91,9 +87,9 @@ Now lets add different enemy characters to make the gameplay more fun and intere
 
 #### Soldier
 
-![Soldier](/photos/soldier_1.gif)
-![Soldier](/photos/soldier_2.gif)
-![Soldier](/photos/soldier_3.gif)
+<img src="/photos/soldier_1.gif" width="20%">
+<img src="/photos/soldier_2.gif" width="13%">
+<img src="/photos/soldier_3.gif" width="27%">
 
 #### Caco Demon
 
